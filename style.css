@@ -1,0 +1,15 @@
+h1{
+    color: white; font-family: 'Times New Roman', Times, serif; text-align: center;
+}
+body{
+    background-color: black; 
+}
+li{
+    color: antiquewhite; list-style: disc; 
+}
+body{
+    border-style: dashed;
+}
+div.container{
+    text-align: center; font-size: large;
+}
